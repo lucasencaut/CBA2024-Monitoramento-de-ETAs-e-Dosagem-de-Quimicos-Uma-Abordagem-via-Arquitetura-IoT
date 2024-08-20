@@ -22,3 +22,7 @@ Na Figura 1, pode-se observar a vista superior do _hardware_ executado, bem como
 </div>
 
 A apresentação completa _hardware_ tanto para o modo de operação _node_ quanto _gateway_ pode ser verificado no vídeo de apresentação da solução juntamente com a interface de comunicação com o usuário, disponibilizado no link https://www.youtube.com/watch?v=Sv5S8iTw4ks.
+
+## Referência Bibliográfica
+
+GONÇALVES, Lucas Carvalho; LIMA, Luiz Octávio Martini; MENEZES, Gustavo Campos; OLIVEIRA, Lucas Silva de. __Monitoramento de ETAs e Dosagem de Químicos: Uma Abordagem via Arquitetura IoT__. In: XXV CONGRESSO BRASILEIRO DE AUTOMÁTICA, CBA2024, Rio de Janeiro, 2024. Anais... Rio de Janeiro, 2024.
